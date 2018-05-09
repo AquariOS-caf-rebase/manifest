@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="https://github.com/slimroms"
+           fetch="https://github.com"
            review="review.slimroms.org" />
 
   <remote  name="private"
